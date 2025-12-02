@@ -10,6 +10,10 @@ https://aktuar.de/de/
 
 https://werde-aktuar.de/
 
+## Open Actuarial Textbooks Project Goal
+
+https://ewfrees.github.io/
+
 ## ANUx: Introduction to Actuarial Science
 
 https://www.edx.org/learn/actuarial-science/australian-national-university-introduction-to-actuarial-science
