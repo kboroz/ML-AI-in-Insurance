@@ -27,3 +27,23 @@ https://cran.rstudio.com/web/packages/ChainLadder/vignettes/ChainLadder.html
 ## Tryangle: Machine Learning Techniques for Chainladder Methods
 
 https://github.com/casact/tryangle
+
+## 
+
+https://github.com/katrienantonio/workshop-ML
+
+https://pat-laub.github.io/DeepLearningForActuaries/#overview
+
+https://github.com/Pat-Laub/DeepLearningForActuaries
+
+https://pat-laub.github.io/DeepLearningForActuaries/
+
+https://openacttexts.github.io/Loss-Data-Analytics/
+
+https://openacttexts.github.io/LDACourse1/
+
+https://ewfrees.github.io/
+
+https://openacttexts.github.io/LDARcode/
+
+https://github.com/katrienantonio/workshop-ML
