@@ -34,6 +34,8 @@ https://www.youtube.com/playlist?list=PLQ_bmx5GxBrBqL2-uyeosJBYuAz4dzgEN
 
 https://github.com/actuarial-data-science/CourseDeepLearningWithActuarialApplications
 
+https://github.com/katrienantonio/workshop-ML
+
 ## Statistical Foundations of Actuarial Learning and its Applications
 
 https://link.springer.com/book/10.1007/978-3-031-12409-9
