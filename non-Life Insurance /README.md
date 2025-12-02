@@ -2,6 +2,12 @@
 
 https://www.youtube.com/playlist?list=PL19XDoQ69BpdpQjzO1T1XYzfCvgGYs-zG
 
+https://openacttexts.github.io/Loss-Data-Analytics/
+
+https://openacttexts.github.io/LDACourse1/
+
+https://openacttexts.github.io/LDARcode/
+
 ## Non-life insurance
 
 https://www.youtube.com/playlist?list=PL19XDoQ69BpcHvdTmMw3vZNvBDef55lMk
