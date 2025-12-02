@@ -55,3 +55,11 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5162304
 ## Deep Learning for Actuarial Modeling
 
 https://people.math.ethz.ch/~wueth/Lecture/InternationalSummerSchool/ISSLausanne.html
+
+## Artificial Intelligence and Deep Learning Models for Actuarial Applications Lecture slides from UNSW’s ACTL3143 & ACTL5111 courses
+
+https://laub.au/DeepLearningForActuaries/#overview
+
+https://github.com/Pat-Laub/DeepLearningForActuaries
+
+
